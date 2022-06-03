@@ -1,0 +1,28 @@
+
+.containerAll{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    flex-direction: row;
+    background-color: rgb(58, 55, 55);
+    padding-left: 0.5em;
+    padding-right: 0.7em;
+}
+
+.container{
+    display: flex;
+    justify-content:flex-start;
+    align-items: center;
+    flex-direction: row;  
+}
+
+.logo{
+    width: 7em;
+}
+
+.title{
+    font-size: 1.5em;
+    color: white;
+    padding: 0.5em;
+}
+
